@@ -1,0 +1,33 @@
+{
+	"name": "Iris",
+      	"words": {
+            "-ly": [ "bravely", "loudly", "proudly", "slightly", "suddenly", "wisely", "boastfully", "carefully", "faithfully", "gratefully", "hopefully", "spitefully", "usefully", "usually", "fearlessly", "accidentally", "occasionally", "probably", "gently", "smiley" ],
+            "Double Consonant": [ "accomodate", "accompany", "aggressive", "appreciate", "attached", "committee", "communicate", "correspond", "embarrass", "exaggerate", "necessary", "opportunity", "recommend", "sufficient", "suggest", "written", "swallow", "sudden", "kettle" ],
+            "wh": [ "which", "whisper", "whether", "whirling", "whinged", "whirred", "wheezing", "wherever", "whinny", "whose", "whoever", "anywhere", "elsewhere", "everywhere", "somewhere", "meanwhile", "worthwhile", "overwhelming", "whimsical", "whetted", "wholeheartedly" ],
+            "Silent w": [ "wrapper", "wrangle", "wrath", "wreckage", "wren", "wrestle", "wretched", "wriggle", "wrinkle", "wrist", "wrong", "wrought", "write", "wry", "whole", "answer", "sword", "wreath", "writhe", "awry" ],
+            "homophones": [ "right", "write", "hair", "hare", "weigh", "way", "night", "knight", "waste", "waist", "break", "brake", "blue", "blew" ],
+            "high frequency": ["with"]
+      },
+      "explanations": {
+          "whether":    "She didn't know whether to laugh or cry.",
+          "which":      "I would go out tonight, but I can't decide which dress to wear.",
+          "whinny":     "They heard the horses whinny as they came closer to the field.",
+          "whirred":    "The strange machine whirred quietly as it was turned on.",
+          "whole":      "He hadn't yet told them the whole story.",
+          "whose":      "\"Whose smelly socks are these?\" asked the teacher in disgust.",
+          "wrapper":    "The boy licked his lips greedily as he took out the chocolate bar and tore open the wrapper.",
+          "right":      "He wanted to tell them, but couldn't think of the right way",
+          "hair":       "The worst thing about the weekend was when she had to wash her hair",
+          "weigh":      "\"How on earth are we going to weigh an angry hippopotamus?\" he asked, scratching his head",
+          "way":        "\"Do you know the way to Chiswick?\" she asked",
+          "night":      "The howling wind kept them up all night.",
+          "knight":     "The knight put on his armour, then rode into battle.",
+          "waste":      "The entire cake was ruined!  It was all such a waste.",
+          "break":      "\"Stop! You will break it!\" shouted the angry mother.",
+          "brake":      "He pulled up the brake and they screeched to a halt.",
+          "blue":       "I've got a blue hotel room, with a blue bedspread.",
+          "blew":       "She lifted the magical instrument to her lips, and blew.",
+          "write":      "She opened her diary, and began to write",
+          "wry":        "A wry smile spread across her lips and she began to tell her story"
+      }
+}
