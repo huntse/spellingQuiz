@@ -5,7 +5,8 @@ Assuming you already have python, this is usually easy to install by just doing
     pip install "ipython[notebook]"
 
 If you haven't installed python, you can find instructions at the [Python
-Beginners Guide][beginners_guide]
+Beginners Guide][beginners_guide].  Do this first, then install ipython
+notebook as above.
 
 Espeak is an open source software speech synthesizer which is available for
 Linux, Mac and Windows.  When I originally wrote this notebook, I used the
